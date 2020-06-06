@@ -1,0 +1,182 @@
+Se cambió el contexto de la base de datos a 'DATOSOFIS'.
+Código de juez Nombre 
+-------------- -------
+0776CONC01     Juez/a 
+0776JNUM01     Lizeth 
+0776JNUM02     Floribe
+0776JNUM03     Edgar L
+0776JNUM04     Erika A
+0776JUEZ01     Ana Luc
+0776JUEZ02     Luis Fe
+0776JUEZ03     Isacc G
+0776JUEZ04     Maria S
+0776JUEZ05     Fany Ve
+0776JUEZ06     José An
+0776JUEZ07     David R
+0776JUEZ08     Isabel 
+0776JUEZ09     JUAN CA
+0776JUEZ10     Gely Ma
+0776JUEZ11     Luis Al
+0776JUEZ12     Carmen 
+0776JUEZ13     Hazel D
+0776JUEZ14     Julieta
+0776JUEZ15     Marvin 
+0776JUEZ16     Hector 
+0776JUEZ17     Alberto
+0776JUEZ18     Karol T
+0776JUEZ19     Isacc G
+0776JUEZ20     Lic. He
+0776JUEZ21     Alvaro 
+0776JUEZ22     Carlos 
+0776JUEZ23     Proyect
+0777CONC01     Juez/a 
+0777JNUM01     Lizeth 
+0777JNUM02     Floribe
+0777JNUM03     Oscar R
+0777JNUM04     Erika A
+0777JUEZ01     Ana Luc
+0777JUEZ02     Luis Fe
+0777JUEZ03     LIDIA M
+0777JUEZ04     Maria S
+0777JUEZ05     Fany Ve
+0777JUEZ06     José An
+0777JUEZ07     David R
+0777JUEZ08     Isabel 
+0777JUEZ09     JUAN CA
+0777JUEZ10     Lic. Al
+0777JUEZ11     Luis Al
+0777JUEZ12     Carmen 
+0777JUEZ13     Hazel D
+0777JUEZ14     Julieta
+0777JUEZ15     Marvin 
+0777JUEZ16     Gely Ma
+0777JUEZ17     Alberto
+0777JUEZ18     Karol T
+0777JUEZ19     Isacc G
+0777JUEZ20     Alejand
+0777JUEZ21     Ferdina
+0777JUEZ22     Lic. Gu
+0777JUEZ23     Proyect
+0777JUEZ24     Lic. Al
+0777JUEZ25     Licda. 
+0777JUEZ26     Licda. 
+0778CONC01     Juez/a 
+0778JNUM01     Olger L
+0778JNUM02     Carlos 
+0778JNUM03     Marco V
+0778JNUM04     Kevin D
+0778JUEZ01     BERTA L
+0778JUEZ02     Luis Fe
+0778JUEZ03     LIDIA M
+0778JUEZ05     Fany Ve
+0778JUEZ06     José An
+0778JUEZ07     David R
+0778JUEZ08     Isabel 
+0778JUEZ09     JUAN CA
+0778JUEZ10     José Pa
+0778JUEZ11     Luis Al
+0778JUEZ12     Carmen 
+0778JUEZ13     Hazel D
+0778JUEZ14     Julieta
+0778JUEZ15     Marvin 
+0778JUEZ16     José Pa
+0778JUEZ17     Alberto
+0778JUEZ18     Karol T
+0778JUEZ19     Mariana
+0778JUEZ20     Alejand
+0778JUEZ21     Alvaro 
+0778JUEZ22     Carlos 
+0778JUEZ23     Proyect
+
+(86 rows affected)
+Se cambió el contexto de la base de datos a 'DATOSOFIS'.
+Código de juez Nombre 
+-------------- -------
+0776CONC01     Juez/a 
+0776JNUM01     Lizeth 
+0776JNUM02     Floribe
+0776JNUM03     Edgar L
+0776JNUM04     Erika A
+0776JUEZ01     Ana Luc
+0776JUEZ02     Luis Fe
+0776JUEZ03     Isacc G
+0776JUEZ04     Maria S
+0776JUEZ05     Fany Ve
+0776JUEZ06     José An
+0776JUEZ07     David R
+0776JUEZ08     Isabel 
+0776JUEZ09     JUAN CA
+0776JUEZ10     Gely Ma
+0776JUEZ11     Luis Al
+0776JUEZ12     Carmen 
+0776JUEZ13     Hazel D
+0776JUEZ14     Julieta
+0776JUEZ15     Marvin 
+0776JUEZ16     Hector 
+0776JUEZ17     Alberto
+0776JUEZ18     Karol T
+0776JUEZ19     Isacc G
+0776JUEZ20     Lic. He
+0776JUEZ21     Alvaro 
+0776JUEZ22     Carlos 
+0776JUEZ23     Proyect
+0777CONC01     Juez/a 
+0777JNUM01     Lizeth 
+0777JNUM02     Floribe
+0777JNUM03     Oscar R
+0777JNUM04     Erika A
+0777JUEZ01     Ana Luc
+0777JUEZ02     Luis Fe
+0777JUEZ03     LIDIA M
+0777JUEZ04     Maria S
+0777JUEZ05     Fany Ve
+0777JUEZ06     José An
+0777JUEZ07     David R
+0777JUEZ08     Isabel 
+0777JUEZ09     JUAN CA
+0777JUEZ10     Lic. Al
+0777JUEZ11     Luis Al
+0777JUEZ12     Carmen 
+0777JUEZ13     Hazel D
+0777JUEZ14     Julieta
+0777JUEZ15     Marvin 
+0777JUEZ16     Gely Ma
+0777JUEZ17     Alberto
+0777JUEZ18     Karol T
+0777JUEZ19     Isacc G
+0777JUEZ20     Alejand
+0777JUEZ21     Ferdina
+0777JUEZ22     Lic. Gu
+0777JUEZ23     Proyect
+0777JUEZ24     Lic. Al
+0777JUEZ25     Licda. 
+0777JUEZ26     Licda. 
+0778CONC01     Juez/a 
+0778JNUM01     Olger L
+0778JNUM02     Carlos 
+0778JNUM03     Marco V
+0778JNUM04     Kevin D
+0778JUEZ01     BERTA L
+0778JUEZ02     Luis Fe
+0778JUEZ03     LIDIA M
+0778JUEZ05     Fany Ve
+0778JUEZ06     José An
+0778JUEZ07     David R
+0778JUEZ08     Isabel 
+0778JUEZ09     JUAN CA
+0778JUEZ10     José Pa
+0778JUEZ11     Luis Al
+0778JUEZ12     Carmen 
+0778JUEZ13     Hazel D
+0778JUEZ14     Julieta
+0778JUEZ15     Marvin 
+0778JUEZ16     José Pa
+0778JUEZ17     Alberto
+0778JUEZ18     Karol T
+0778JUEZ19     Mariana
+0778JUEZ20     Alejand
+0778JUEZ21     Alvaro 
+0778JUEZ22     Carlos 
+0778JUEZ23     Proyect
+
+(86 rows affected)

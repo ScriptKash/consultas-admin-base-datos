@@ -1,0 +1,17 @@
+use master
+go
+CREATE DATABASE DATOSOFIS
+ON PRIMARY
+(
+NAME = 'DATOSOFIS_Data',
+FILENAME = 'C:\consultas\practicas\DATOSOFIS_Data.Mdf',
+SIZE = 15Mb,
+MAXSIZE = 30Mb,
+FILEGROWTH= 5Mb)
+Log On
+(NAME = 'DATOSOFIS_Log',
+FILENAME = 'C:\consultas\practicas\DATOSOFIS_Log.Ldf',
+SIZE = 5Mb,
+MAXSIZE = 10Mb,
+FILEGROWTH= 1Mb)
+GO

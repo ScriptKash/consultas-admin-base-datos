@@ -1,0 +1,118 @@
+Se cambió el contexto de la base de datos a 'Datos'.
+Código de ruta Cédula    Género FVECONT    Nombre                         Primer Apellido                Segundo Apellido               Saldo del monto Fecha de saldo
+-------------- --------- ------ ---------- ------------------------------ ------------------------------ ------------------------------ --------------- --------------
+502020         102760315 M      28-04-2021 UBALDO                         PORRAS                         GOMEZ                                 42828.00 28-08-2019    
+502020         103040685 F      20-03-2016 MARGARITA                      PORRAS                         GOMEZ                                 32020.00 20-07-2014    
+502020         105680104 M      01-08-2015 RAFAEL ANGEL                   ABARCA                         JIMENEZ                               80101.00 01-12-2013    
+502020         105800292 M      03-06-2020 EDUARDO                        SANCHEZ                        CARDENAS                              60303.00 03-10-2018    
+502020         105940871 M      26-10-2017 JORGE LUIS                     ROJAS                          CAMPOS                               102626.00 26-02-2016    
+502020         106380399 F      20-04-2016 LIZETT                         ESPINOZA                       CASCANTE                              42020.00 20-08-2014    
+502020         106670632 M      23-06-2015 OSVALDO ARTURO                 ESPINOZA                       CASCANTE                              62323.00 23-10-2013    
+502020         107530155 M      10-08-2022 LAINER                         SEQUEIRA                       ESPINOZA                              81010.00 10-12-2020    
+502020         107700899 M      10-09-2023 JOSE ALEXANDER                 ZUÑIGA                         HERNANDEZ                             91010.00 10-01-2022    
+502020         107900789 F      18-01-2021 KATTIA MARIA                   ESPINOZA                       FONSECA                               11818.00 18-05-2019    
+502020         108010319 M      19-06-2022 EDUARDO                        CASTILLO                       ROJAS                                 61919.00 19-10-2020    
+502020         108150318 M      11-09-2019 MAURICIO                       SANCHEZ                        LASSO                                 91111.00 11-01-2018    
+502020         108320376 F      23-06-2020 DUNIA                          ZUÑIGA                         HERNANDEZ                             62323.00 23-10-2018    
+502020         108390133 F      22-07-2020 KARINA                         OBANDO                         FONSECA                               72222.00 22-11-2018    
+502020         108540124 F      06-05-2023 ERIKA YESENIA                  ACOSTA                         BALTODANO                             50606.00 06-09-2021    
+502020         108640699 F      18-10-2022 YENDRY                         JUAREZ                         GARCIA                               101818.00 18-02-2021    
+502020         108750109 M      16-07-2022 JULIO CESAR                    ACOSTA                         JIMENEZ                               71616.00 16-11-2020    
+502020         108790162 F      28-09-2019 CYNTHIA DE LOS ANGEL           ESPINOZA                       FONSECA                               92828.00 28-01-2018    
+502020         108810930 F      21-02-2023 LADY MARIA                     CORTES                         MATARRITA                             22121.00 21-06-2021    
+502020         108880453 F      23-09-2019 LOLITA DEL CARMEN              PORRAS                         CESPEDES                              92323.00 23-01-2018    
+502020         108910797 M      23-06-2015 CARLOS MANUEL                  BALTODANO                      BRICEÑO                               62323.00 23-10-2013    
+502020         109290135 M      21-05-2020 MAURICIO                       ACOSTA                         JIMENEZ                               52121.00 21-09-2018    
+502020         109630349 F      22-12-2019 CINDY PATRICIA                 ACOSTA                         JIMENEZ                              122222.00 22-04-2018    
+502020         110370459 F      13-10-2019 GABRIELA                       ACOSTA                         JIMENEZ                              101313.00 13-02-2018    
+502020         110380134 F      25-10-2019 IVANNIA                        GONZALEZ                       RAMIREZ                              102525.00 25-02-2018    
+502020         110410353 F      17-10-2019 CELIA PRISCILLA                ARCE                           SEQUEIRA                             101717.00 17-02-2018    
+502020         110410362 F      18-09-2023 ROXANA MARIA                   ALPIZAR                        MARIN                                 91818.00 18-01-2022    
+502020         110420199 F      17-06-2020 MELISSA                        GOMEZ                          JUAREZ                                61717.00 17-10-2018    
+502020         110570536 F      20-02-2019 HAZEL                          CESPEDES                       OBANDO                                22020.00 20-06-2017    
+502020         110590289 M      20-01-2022 LUIS ALONSO                    JIMENEZ                        CHAVES                                12020.00 20-05-2020    
+502020         111080293 M      14-05-2023 MANUEL                         HERNANDEZ                      CALDERON                              51414.00 14-09-2021    
+502020         111280065 M      20-10-2018 CARLOS ALBERTO                 CESPEDES                       OBANDO                               102020.00 20-02-2017    
+502020         111310815 M      30-03-2021 RONALD EDUARDO                 ACOSTA                         CARRILLO                              33030.00 30-07-2019    
+502020         111410399 F      29-07-2020 ANA CATALINA                   BLANCO                         CORTES                                72929.00 29-11-2018    
+502020         111640885 M      11-01-2018 PABLO MIGUEL                   GUEVARA                        DIAZ                                  11111.00 11-05-2016    
+502020         111940861 F      05-12-2021 ANA MILAGRO                    VILLEGAS                       JUAREZ                               120505.00 05-04-2020    
+502020         112060698 M      07-05-2023 GEINER                         VARGAS                         DIAZ                                  50707.00 07-09-2021    
+502020         112190748 F      18-01-2018 EVELYN                         VALLADARES                     ZUÑIGA                                11818.00 18-05-2016    
+502020         112210395 F      23-01-2023 JACQUELINE VANESSA             OSORNO                         HAPPER                                12323.00 23-05-2021    
+502020         112430075 M      01-08-2022 FRANKLIN ANTONIO               CARDENAS                       MATA                                  80101.00 01-12-2020    
+502020         112770766 F      20-05-2014 JOHANNA DE LOS ANGEL           CESPEDES                       OBANDO                                52020.00 20-09-2012    
+502020         112920884 F      13-10-2014 ANA MARIELA                    OBANDO                         FAJARDO                              101313.00 13-02-2013    
+502020         113210336 F      13-09-2015 ESMERALDA                      GOMEZ                          JUAREZ                                91313.00 13-01-2014    
+502020         113280510 F      07-03-2018 VIVIANA                        SANCHEZ                        FONSECA                               30707.00 07-07-2016    
+502020         113590206 M      20-04-2022 LENIN                          ROJAS                          SEQUEIRA                              42020.00 20-08-2020    
+502020         113610705 M      10-03-2020 FRANCISCO JAVIER               SIBAJA                         MATARRITA                             31010.00 10-07-2018    
+502020         113960086 M      27-05-2023 JOSIE ESTEBAN                  CASTILLO                       DIAZ                                  52727.00 27-09-2021    
+502020         114320146 M      22-12-2021 ERICK                          HERRERA                        ESPINOZA                             122222.00 22-04-2020    
+502020         114380358 F      25-08-2018 MITZI GABRIELA                 ROJAS                          MATARRITA                             82525.00 25-12-2016    
+502020         114410505 F      12-11-2018 MILAGRO DE LOS ANGELES         GUEVARA                        BRICEÑO                              111212.00 12-03-2017    
+502020         114540643 M      19-01-2019 BRYAN                          OROZCO                         DIAZ                                  11919.00 19-05-2017    
+502020         114900548 M      29-09-2019 SERGIO                         BALTODANO                      DIAZ                                  92929.00 29-01-2018    
+502020         114950578 F      26-03-2020 JOSELYNE                       HERRERA                        ESPINOZA                              32626.00 26-07-2018    
+502020         114980865 M      11-02-2023 JUAN DIEGO                     ROJAS                          SEQUEIRA                              21111.00 11-06-2021    
+
+(54 rows affected)
+Se cambió el contexto de la base de datos a 'Datos'.
+Código de ruta Cédula    Género FVECONT    Nombre                         Primer Apellido                Segundo Apellido               Saldo del monto Fecha de saldo
+-------------- --------- ------ ---------- ------------------------------ ------------------------------ ------------------------------ --------------- --------------
+502020         102760315 M      28-04-2021 UBALDO                         PORRAS                         GOMEZ                                 42828.00 28-08-2019    
+502020         103040685 F      20-03-2016 MARGARITA                      PORRAS                         GOMEZ                                 32020.00 20-07-2014    
+502020         105680104 M      01-08-2015 RAFAEL ANGEL                   ABARCA                         JIMENEZ                               80101.00 01-12-2013    
+502020         105800292 M      03-06-2020 EDUARDO                        SANCHEZ                        CARDENAS                              60303.00 03-10-2018    
+502020         105940871 M      26-10-2017 JORGE LUIS                     ROJAS                          CAMPOS                               102626.00 26-02-2016    
+502020         106380399 F      20-04-2016 LIZETT                         ESPINOZA                       CASCANTE                              42020.00 20-08-2014    
+502020         106670632 M      23-06-2015 OSVALDO ARTURO                 ESPINOZA                       CASCANTE                              62323.00 23-10-2013    
+502020         107530155 M      10-08-2022 LAINER                         SEQUEIRA                       ESPINOZA                              81010.00 10-12-2020    
+502020         107700899 M      10-09-2023 JOSE ALEXANDER                 ZUÑIGA                         HERNANDEZ                             91010.00 10-01-2022    
+502020         107900789 F      18-01-2021 KATTIA MARIA                   ESPINOZA                       FONSECA                               11818.00 18-05-2019    
+502020         108010319 M      19-06-2022 EDUARDO                        CASTILLO                       ROJAS                                 61919.00 19-10-2020    
+502020         108150318 M      11-09-2019 MAURICIO                       SANCHEZ                        LASSO                                 91111.00 11-01-2018    
+502020         108320376 F      23-06-2020 DUNIA                          ZUÑIGA                         HERNANDEZ                             62323.00 23-10-2018    
+502020         108390133 F      22-07-2020 KARINA                         OBANDO                         FONSECA                               72222.00 22-11-2018    
+502020         108540124 F      06-05-2023 ERIKA YESENIA                  ACOSTA                         BALTODANO                             50606.00 06-09-2021    
+502020         108640699 F      18-10-2022 YENDRY                         JUAREZ                         GARCIA                               101818.00 18-02-2021    
+502020         108750109 M      16-07-2022 JULIO CESAR                    ACOSTA                         JIMENEZ                               71616.00 16-11-2020    
+502020         108790162 F      28-09-2019 CYNTHIA DE LOS ANGEL           ESPINOZA                       FONSECA                               92828.00 28-01-2018    
+502020         108810930 F      21-02-2023 LADY MARIA                     CORTES                         MATARRITA                             22121.00 21-06-2021    
+502020         108880453 F      23-09-2019 LOLITA DEL CARMEN              PORRAS                         CESPEDES                              92323.00 23-01-2018    
+502020         108910797 M      23-06-2015 CARLOS MANUEL                  BALTODANO                      BRICEÑO                               62323.00 23-10-2013    
+502020         109290135 M      21-05-2020 MAURICIO                       ACOSTA                         JIMENEZ                               52121.00 21-09-2018    
+502020         109630349 F      22-12-2019 CINDY PATRICIA                 ACOSTA                         JIMENEZ                              122222.00 22-04-2018    
+502020         110370459 F      13-10-2019 GABRIELA                       ACOSTA                         JIMENEZ                              101313.00 13-02-2018    
+502020         110380134 F      25-10-2019 IVANNIA                        GONZALEZ                       RAMIREZ                              102525.00 25-02-2018    
+502020         110410353 F      17-10-2019 CELIA PRISCILLA                ARCE                           SEQUEIRA                             101717.00 17-02-2018    
+502020         110410362 F      18-09-2023 ROXANA MARIA                   ALPIZAR                        MARIN                                 91818.00 18-01-2022    
+502020         110420199 F      17-06-2020 MELISSA                        GOMEZ                          JUAREZ                                61717.00 17-10-2018    
+502020         110570536 F      20-02-2019 HAZEL                          CESPEDES                       OBANDO                                22020.00 20-06-2017    
+502020         110590289 M      20-01-2022 LUIS ALONSO                    JIMENEZ                        CHAVES                                12020.00 20-05-2020    
+502020         111080293 M      14-05-2023 MANUEL                         HERNANDEZ                      CALDERON                              51414.00 14-09-2021    
+502020         111280065 M      20-10-2018 CARLOS ALBERTO                 CESPEDES                       OBANDO                               102020.00 20-02-2017    
+502020         111310815 M      30-03-2021 RONALD EDUARDO                 ACOSTA                         CARRILLO                              33030.00 30-07-2019    
+502020         111410399 F      29-07-2020 ANA CATALINA                   BLANCO                         CORTES                                72929.00 29-11-2018    
+502020         111640885 M      11-01-2018 PABLO MIGUEL                   GUEVARA                        DIAZ                                  11111.00 11-05-2016    
+502020         111940861 F      05-12-2021 ANA MILAGRO                    VILLEGAS                       JUAREZ                               120505.00 05-04-2020    
+502020         112060698 M      07-05-2023 GEINER                         VARGAS                         DIAZ                                  50707.00 07-09-2021    
+502020         112190748 F      18-01-2018 EVELYN                         VALLADARES                     ZUÑIGA                                11818.00 18-05-2016    
+502020         112210395 F      23-01-2023 JACQUELINE VANESSA             OSORNO                         HAPPER                                12323.00 23-05-2021    
+502020         112430075 M      01-08-2022 FRANKLIN ANTONIO               CARDENAS                       MATA                                  80101.00 01-12-2020    
+502020         112770766 F      20-05-2014 JOHANNA DE LOS ANGEL           CESPEDES                       OBANDO                                52020.00 20-09-2012    
+502020         112920884 F      13-10-2014 ANA MARIELA                    OBANDO                         FAJARDO                              101313.00 13-02-2013    
+502020         113210336 F      13-09-2015 ESMERALDA                      GOMEZ                          JUAREZ                                91313.00 13-01-2014    
+502020         113280510 F      07-03-2018 VIVIANA                        SANCHEZ                        FONSECA                               30707.00 07-07-2016    
+502020         113590206 M      20-04-2022 LENIN                          ROJAS                          SEQUEIRA                              42020.00 20-08-2020    
+502020         113610705 M      10-03-2020 FRANCISCO JAVIER               SIBAJA                         MATARRITA                             31010.00 10-07-2018    
+502020         113960086 M      27-05-2023 JOSIE ESTEBAN                  CASTILLO                       DIAZ                                  52727.00 27-09-2021    
+502020         114320146 M      22-12-2021 ERICK                          HERRERA                        ESPINOZA                             122222.00 22-04-2020    
+502020         114380358 F      25-08-2018 MITZI GABRIELA                 ROJAS                          MATARRITA                             82525.00 25-12-2016    
+502020         114410505 F      12-11-2018 MILAGRO DE LOS ANGELES         GUEVARA                        BRICEÑO                              111212.00 12-03-2017    
+502020         114540643 M      19-01-2019 BRYAN                          OROZCO                         DIAZ                                  11919.00 19-05-2017    
+502020         114900548 M      29-09-2019 SERGIO                         BALTODANO                      DIAZ                                  92929.00 29-01-2018    
+502020         114950578 F      26-03-2020 JOSELYNE                       HERRERA                        ESPINOZA                              32626.00 26-07-2018    
+502020         114980865 M      11-02-2023 JUAN DIEGO                     ROJAS                          SEQUEIRA                              21111.00 11-06-2021    
+
+(54 rows affected)
